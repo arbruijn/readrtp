@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=readrtp
+Comment=Apply RTP patch archives
+Exec=apply %F
+Icon=readrtp
+Terminal=true
+Categories=Utility;

@@ -468,14 +468,12 @@ void print_help(std::ostream& out) {
     out << "\n";
     out << "Options:\n";
     out << "  --input <file>         Patch/package file, e.g. D3_US_1.4_Patch.exe\n";
-    out << "  --source-dir <dir>     Optional tree to copy into the output directory before patching\n";
     out << "  --target-dir <dir>     Directory to write patched files into\n";
     out << "  --file <file>          Optional file selection\n";
     out << "  -v, --verbose          Enable logging\n";
     out << "  -t, --trace            Enable tracing\n";
     out << "  -l, --list             List all recordfile entries\n";
     out << "  -c, --check            Check if files in target directory match package versions\n";
-    out << "  --reference-dir <dir>  Directory containing the expected sample output tree\n";
     out << "  -q, --quiet            Suppress status output\n";
     out << "  -h, --help, -?         Show this help message and exit\n";
 }

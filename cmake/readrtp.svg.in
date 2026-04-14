@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title>readrtp</title>
+  <desc>Generic icon for the readrtp AppImage</desc>
+  <rect width="256" height="256" rx="48" fill="#1f2937"/>
+  <rect x="56" y="40" width="144" height="176" rx="20" fill="#f8fafc"/>
+  <path d="M88 96h80M88 128h80M88 160h52" stroke="#2563eb" stroke-width="16" stroke-linecap="round"/>
+  <path d="M152 40v40h40" fill="#e2e8f0"/>
+  <path d="M152 40l40 40h-40z" fill="#cbd5e1"/>
+</svg>
