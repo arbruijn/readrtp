@@ -1,0 +1,6 @@
+build/
+test/
+callgrind.out.*
+data.bin
+d1patch.rtp
+Testing/
